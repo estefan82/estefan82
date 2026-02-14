@@ -1,3 +1,5 @@
+#requirement pip install watchdog
+
 import time
 import pandas as pd
 from watchdog.observers import Observer
